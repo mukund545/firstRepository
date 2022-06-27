@@ -1,2 +1,3 @@
 this is new project file,
 the requirements will be shared here.
+the project will be about developing a java springboot application.
